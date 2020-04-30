@@ -1,13 +1,8 @@
 # First React Component
 
-## Let's create our app
-
-```powershell
-# Create a new React app using
-create-react-app fizzbuzz
-```
-
 ## Let's see what `create-react-app` did
+
+- Initial project created using `create-react-app`
 
 ## Let's Create a Test for Our Component
 
