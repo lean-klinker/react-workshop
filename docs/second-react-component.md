@@ -1,5 +1,7 @@
 # Class Based Components
 
+## Let's create a component to show us the result of fizz buzz when we increment a number
+
 ## Class Based Concepts
 
 ### State
@@ -17,7 +19,7 @@
 
 ## New Requirement
 
-- Given current number is zero when number incremented then shows 1
-- Given current number is two when number incremented then shows fizz
-- Given current number is four when number incremented then shows buzz
-- Given current number is fourteen when number incremented then shows fizzbuzz
+- Given current number is 1 when number incremented then shows 2
+- Given current number is 2 when number incremented then shows fizz
+- Given current number is 4 when number incremented then shows buzz
+- Given current number is 14 when number incremented then shows fizzbuzz
