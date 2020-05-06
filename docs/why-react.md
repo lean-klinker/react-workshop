@@ -35,24 +35,36 @@ export class HelloComponent {
 /* ./hello.component.css */
 ```
 
-### Vue Component
+### Backbone w/ Dust Component
 
-```vue
-<template>
-    <div>Hello</div>
-</template>
+```javascript
+var HelloModel = Backbone.Model.extend({
+    message: 'Hello'
+});
+var HelloView = Backbone.View.extend({
+    el: '#hello',
+    render: function () {
+        var view = this;
+        var template = $('#template').html();
+        var compiled = dust.compile(template, 'TEMPLATE_NAME');
+        dust.loadSource(compiled);
+        dust.render('TEMPLATE_NAME', this.model, function (error, contents) {
+            view.$el.html(contents);
+        });
+        return this;
+    }
+});
+```
 
-<script>
-module.exports = {
-    data: function() {
-    
-    }   
-}
+```html
+<html>
+<body>
+<div id="#hello"></div>
+<script id="template">
+<span>{message}</span>
 </script>
-
-<style scoped>
-
-</style>
+</body>
+</html>
 ```
 
 ## Library over Framework
@@ -60,8 +72,6 @@ module.exports = {
 ### React is a View Library
 
 ### Angular is a SPA Framework
-
-### Vue is somewhere in the middle
 
 ## Community
 
