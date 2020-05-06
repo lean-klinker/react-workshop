@@ -73,14 +73,16 @@ var HelloView = Backbone.View.extend({
 
 ### Angular is a SPA Framework
 
+### Backbone is a View agnostic Library
+
+### Dust is a templating library
+
 ## Community
 
 ### React Weekly Downloads: ~8.5 million
 
 ### Angular Weekly Downloads: ~1.5 million
 
-### Vue Weekly Downloads: ~1.6 million
+### Backbone Weekly Downloads: ~556,000
 
-### Google Trends
-
-![React vs Angular vs Vue Google Trends](./images/react-vs-angular-vue-google-trends.png)
+### Dust Weekly Downloads: ~28,000
