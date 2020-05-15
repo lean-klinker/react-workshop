@@ -58,12 +58,12 @@ var HelloView = Backbone.View.extend({
 
 ```html
 <html>
-<body>
-<div id="#hello"></div>
-<script id="template">
-<span>{message}</span>
-</script>
-</body>
+    <body>
+        <div id="#hello"></div>
+        <script id="template">
+            <span>{message}</span>
+        </script>
+    </body>
 </html>
 ```
 
