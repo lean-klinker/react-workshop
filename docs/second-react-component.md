@@ -1,21 +1,8 @@
 # Class Based Components
 
-## Let's create a component to show us the result of fizz buzz when we increment a number
+## Let's get the test working for `FizzBuzzApp`
 
-## Class Based Concepts
-
-### State
-
-- `setState`
-
-### Life-cycle Methods
-
-- `componentDidMount`
-- `componentWillMount` (legacy do not use)
-- `shouldUpdateComponent`
-- `componentDidUpdate`
-
-[Full Docs](https://reactjs.org/docs/react-component.html)
+### We can either reimplement fizzbuzz or use our `FizzBuzz` component
 
 ## New Requirement
 

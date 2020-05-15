@@ -4,4 +4,4 @@
 
 - Do you see any logic?
 
-## Let's move the logic somewhere else
+## Let's move the logic to `fizzbuzz-calculator`
