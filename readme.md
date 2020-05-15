@@ -8,8 +8,10 @@
 
 ## 4. [Second React Component](docs/second-react-component.md)
 
-## 5. [Convert to Functional Component](docs/convert-to-functional-component.md)
+## 5. [React Form](docs/react-form.md)
 
-## 6. [Remove Logic from Components](docs/remove-logic-from-components.md)
+## 6. [Convert to Functional Component](docs/convert-to-functional-component.md)
 
-## 7. [External Data](docs/external-data.md)
+## 7. [Remove Logic from Components](docs/remove-logic-from-components.md)
+
+## 8. [External Data](docs/external-data.md)
