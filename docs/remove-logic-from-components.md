@@ -5,3 +5,7 @@
 - Do you see any logic?
 
 ## Let's move the logic to `fizzbuzz-calculator`
+
+## How can we use our calculator?
+
+[Next](./external-data.md)

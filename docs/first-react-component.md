@@ -4,9 +4,7 @@
 
 - Initial project created using `create-react-app`
 
-## Let's Create a Test for Our Component
-
-- Add file: `./src/FizzBuzz.spec.js`
+## Let's get the tests in FizzBuzz.spec.js` passing
 
 ## Let's Create a FizzBuzz Component
 
@@ -17,3 +15,5 @@
 - Given a number when calculating fizzbuzz then shows number
 - Given a number divisible by 3 when calculating fizzbuzz then shows fizz
 - Given a number divisible by 5 when calculating fizzbuzz then shows buzz
+
+[Next](./second-react-component.md)

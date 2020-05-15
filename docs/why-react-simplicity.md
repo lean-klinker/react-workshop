@@ -67,22 +67,4 @@ var HelloView = Backbone.View.extend({
 </html>
 ```
 
-## Library over Framework
-
-### React is a View Library
-
-### Angular is a SPA Framework
-
-### Backbone is a View agnostic Library
-
-### Dust is a templating library
-
-## Community
-
-### React Weekly Downloads: ~8.5 million
-
-### Angular Weekly Downloads: ~1.5 million
-
-### Backbone Weekly Downloads: ~556,000
-
-### Dust Weekly Downloads: ~28,000
+[Next](./why-react-library-over-framework.md)

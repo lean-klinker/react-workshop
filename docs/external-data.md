@@ -6,4 +6,7 @@
     - The current value comes from a rest api
 
 ## Where does the code for the rest call go?
-    
+   
+- Inside our commponent?
+- Outside our component?
+- No where?
